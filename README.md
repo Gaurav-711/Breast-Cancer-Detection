@@ -59,7 +59,11 @@ SVM achieved the highest accuracy of 98.24%
 Visualization of data helped in identifying feature importance and correlations
 
 ![Screenshot 2025-04-04 173313](https://github.com/user-attachments/assets/8089b1e3-6a93-476c-afab-5caa8facac38)
+
+
 ![Screenshot 2025-04-04 174201](https://github.com/user-attachments/assets/e30b39f6-77da-41ca-b3e1-d0d3f31d6932)
+
+
 ![Screenshot 2025-04-04 174252](https://github.com/user-attachments/assets/b8bac1d3-1338-40a9-abcb-135ac775ac74)
 
 ![Screenshot 2025-04-05 011629](https://github.com/user-attachments/assets/552339a0-2099-4380-9700-d4cd518388b1)
